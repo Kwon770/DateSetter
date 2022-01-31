@@ -1,0 +1,1 @@
+([('main', '/Users/chan/code/python/DateSetter/dist/main', 'EXECUTABLE')],)
